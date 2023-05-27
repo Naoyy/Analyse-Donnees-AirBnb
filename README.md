@@ -13,4 +13,5 @@ py -m pip install virtualenv
 py -m venv NomDeL'env
 .\NomDeL'env\Scripts\activate
 pip install jupyter
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
